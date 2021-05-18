@@ -1,0 +1,34 @@
+@charset "utf-8"; /* 브란도 레스토랑 원페이지형 */
+
+.hearder-nav>li>span{display:inline;}
+.hearder-nav>li>span>a{display:inline;}
+#header>div>div>ul>li:nth-child(2)>span{display:inline;}
+.mobile-menu-wrap>ul>li>span>a{display:inline;}
+a.goTopBtn{display:inline;}
+.section5-right-wrap>li>i {display:inline;}
+.section5-right-wrap>li>a {display:inline;}
+.section9-button-wrap>li{display:inline;}
+.modalcloseBtn-wrap>a{display:inline;}
+.modal-Left-Arrow-wrap>a{display:inline;}
+.modal-Right-Arrow-wrap>a{display:inline;}
+.slide-content-right>div>span>i{display:inline;}
+span.prevBtn-wrap>a>i{display:inline;}
+span.nextBtn-wrap>a>i{display:inline;}
+#section12>div>p>a{display:inline;}
+.form-contact-wrap>li>button{display:inline;}
+#footer>div>div>span{display:inline;}
+#footer>div>span>a{display:inline;}
+
+#markUp-wrap>p{display:inline;}
+
+/* respons.css */
+.section9-button-wrap>li>a{display:inline}
+
+
+
+
+
+
+
+
+
