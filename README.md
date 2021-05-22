@@ -1,4 +1,4 @@
-# Brando-Restaurant-Clone
+# Brando Restaurant Clone 🐑
 
 BRANDO RESTAURANT Web page clone coding (HTML, CSS, JS)
 
