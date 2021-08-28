@@ -50,29 +50,3 @@ $(function(){ //section13.js
 	counterOBJ.init();
 	
 }); //section13.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

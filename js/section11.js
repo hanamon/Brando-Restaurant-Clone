@@ -19,28 +19,10 @@ var section11Obj = {
 	imgHeightFn: function(){
 		var imgH = 0;
 		imgH = $('.section11-left-gallery-wrap>div>a>img').innerHeight();
-			   $('.section11-right-text-wrap>div').css({height:imgH});
-			   
-			   $('.section11-right-text-wrap>div>span>a').css({fontSize:imgH*0.064864865});	   
+		$('.section11-right-text-wrap>div').css({height:imgH});
+		$('.section11-right-text-wrap>div>span>a').css({fontSize:imgH*0.064864865});	   
 	}
 };
 
 /*-------------------------------------------------------------------------------------------------*/
 //section11.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
